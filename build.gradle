@@ -8,8 +8,6 @@ plugins {
     id 'io.franzbecker.gradle-lombok' version '1.8'
 }
 
-
-
 project.ext.unidevPlatformVersion = "3.2.8"
 
 subprojects {
